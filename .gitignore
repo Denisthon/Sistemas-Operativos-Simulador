@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Compilación
+/build
+/bin
+*.o
+*.obj
+*.exe
+
+# Editor
+.vscode/
+*.swp
+
+# Otros
+config/*.local.json
